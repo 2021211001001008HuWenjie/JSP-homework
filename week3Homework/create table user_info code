@@ -1,0 +1,9 @@
+use jsp_homework;
+create table user_info(
+    id int(10) UNSIGNED auto_increment primary key ,
+    username varchar(50) ,
+    password varchar(20) ,
+    email varchar(20) ,
+    gender varchar(10) ,
+    birthday date
+);
