@@ -22,7 +22,6 @@ import java.sql.SQLException;
 },loadOnStartup = 1
 //        static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 //        static final String DB_URL = "jdbc:mysql://localhost:3306/student_mark_db?useSSL=false&serverTimezone=UTC";
-//        // 数据库的用户名与密码，需要根据自己的设置
 //        public static final String URL = "jdbc:mysql://localhost:3306/student_mark_db";
 //        public static final String USER = "root";
 //        public static final String PASSWORD = "111111";
